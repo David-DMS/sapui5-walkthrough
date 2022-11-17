@@ -1,0 +1,23 @@
+{
+  "name": "WALKTHROUGH",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-DMS/sapui5-walkthrough.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-DMS/sapui5-walkthrough/issues"
+  },
+  "homepage": "https://github.com/David-DMS/sapui5-walkthrough#readme",
+  "devDependencies": {
+    "@ui5/cli": "^2.14.14"
+  }
+}
